@@ -50,7 +50,7 @@ This will start the interactive menu where you can select different performance 
 
 ### **Week 2 - Memory Management & Garbage Collection**
 - Deep dive into .NET GC (Gen 0, Gen 1, Gen 2)
-- Understanding Stack vs Heap allocationsß
+- Understanding Stack vs Heap allocations
 - Large Object Heap (LOH) optimizations
 - Identifying and fixing memory leaks
 
@@ -67,7 +67,7 @@ This will start the interactive menu where you can select different performance 
 - Database sharding and partitioning
 
 ## Next Steps
-- [Read Week 1 Documentation](docs/Week1_README.md)
+- [Read Week 1 Documentation](docs/Week-1.md)
 - Continue with **Week 2: Memory Management & Garbage Collection**
 
 🚀 **This project is a hands-on learning experience for .NET developers interested in high-performance architecture and optimizations.**
