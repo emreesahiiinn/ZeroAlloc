@@ -59,6 +59,7 @@ This will start the interactive menu where you can select different performance 
 - Zero-allocation programming techniques
 - Optimizing serialization (JSON, MessagePack, Protobuf)
 - High-performance gRPC optimization techniques
+- Record vs Class Data Fetch & Benchmark
 
 ### **Week 4 - Distributed Systems & Eventual Consistency**
 - CAP Theorem and Brewer's Theorem

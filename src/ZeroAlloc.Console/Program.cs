@@ -1,6 +1,7 @@
 ﻿using ZeroAlloc.Console.Week1_AsyncAwait;
 using ZeroAlloc.Console.Week2_MemoryManagement;
 using ZeroAlloc.Console.Week3_HighPerformance;
+using ZeroAlloc.Console.Week4_DistributedSystems;
 
 internal class Program
 {
@@ -27,7 +28,7 @@ internal class Program
                 await Week3_Main.RunAsync();
                 break;
             case "4":
-                Console.WriteLine("Week 4 not implemented yet.");
+                Week4_Main.Run();
                 break;
             default:
                 Console.WriteLine("Invalid selection. Exiting...");

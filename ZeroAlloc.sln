@@ -12,6 +12,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{E6F77A47-0
 		Docs\Week-1.md = Docs\Week-1.md
 		Docs\Week-2.md = Docs\Week-2.md
 		Docs\Week-3.md = Docs\Week-3.md
+		Docs\Week-4.md = Docs\Week-4.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{28E66EBC-0499-47FC-B779-CEE828FB07DA}"

@@ -15,8 +15,4 @@
         <PackageReference Include="System.Threading.Channels" Version="9.0.2"/>
     </ItemGroup>
 
-    <ItemGroup>
-      <Folder Include="Week4_DistributedSystems\" />
-    </ItemGroup>
-
 </Project>
