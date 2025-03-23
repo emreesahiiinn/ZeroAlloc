@@ -9,8 +9,14 @@
 
     <ItemGroup>
         <PackageReference Include="BenchmarkDotNet" Version="0.14.0"/>
+        <PackageReference Include="MessagePack" Version="3.1.3" />
         <PackageReference Include="Microsoft.Extensions.Logging" Version="9.0.2"/>
+        <PackageReference Include="protobuf-net" Version="3.2.46" />
         <PackageReference Include="System.Threading.Channels" Version="9.0.2"/>
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Week4_DistributedSystems\" />
     </ItemGroup>
 
 </Project>

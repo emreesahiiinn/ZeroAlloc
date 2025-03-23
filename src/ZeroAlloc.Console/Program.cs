@@ -1,9 +1,10 @@
 ﻿using ZeroAlloc.Console.Week1_AsyncAwait;
 using ZeroAlloc.Console.Week2_MemoryManagement;
+using ZeroAlloc.Console.Week3_HighPerformance;
 
 internal class Program
 {
-    private static void Main()
+    private static async Task Main()
     {
         Console.WriteLine("\n Welcome to ZeroAlloc - .NET Performance Challenge 🚀");
         Console.WriteLine("1 - Week 1: Async/Await & Multi-Threading");
@@ -23,7 +24,7 @@ internal class Program
                 Week2_Main.Run();
                 break;
             case "3":
-                Console.WriteLine("Week 3 not implemented yet.");
+                await Week3_Main.RunAsync();
                 break;
             case "4":
                 Console.WriteLine("Week 4 not implemented yet.");

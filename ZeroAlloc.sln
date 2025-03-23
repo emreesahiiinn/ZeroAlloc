@@ -9,7 +9,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeroAlloc.Tests", "src\Zero
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{E6F77A47-0F2C-4A1F-99D6-38C20A295122}"
 	ProjectSection(SolutionItems) = preProject
-		Docs\Weeek-1.md = Docs\Weeek-1.md
+		Docs\Week-1.md = Docs\Week-1.md
+		Docs\Week-2.md = Docs\Week-2.md
+		Docs\Week-3.md = Docs\Week-3.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{28E66EBC-0499-47FC-B779-CEE828FB07DA}"
