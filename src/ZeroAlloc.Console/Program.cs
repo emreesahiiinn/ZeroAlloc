@@ -1,4 +1,5 @@
 ﻿using ZeroAlloc.Console.Week1_AsyncAwait;
+using ZeroAlloc.Console.Week2_MemoryManagement;
 
 internal class Program
 {
@@ -19,7 +20,7 @@ internal class Program
                 Week1_AsyncAwait.Run();
                 break;
             case "2":
-                Console.WriteLine("Week 2 not implemented yet.");
+                Week2_Main.Run();
                 break;
             case "3":
                 Console.WriteLine("Week 3 not implemented yet.");
